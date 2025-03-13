@@ -5,3 +5,5 @@ we plan on using the led screen to display a message
 how to input message (unknown)(figuring it out)
 might use a speaker and a timer for better usage
 possible internet integration (connected to an online clock perhapse)
+
+stoped using Trello becuse of notifications to upgrade and them trying to make me use there ai tools
